@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Harsh645089/leetcode-/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Harsh645089/leetcode-/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Harsh645089/leetcode-/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
 ## Array
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Harsh645089/leetcode-/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Harsh645089/leetcode-/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
 | ------- |
