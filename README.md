@@ -9,4 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Harsh645089/leetcode-/tree/master/0190-reverse-bits) |
+| [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
+## Array
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
