@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //this is the best solution and i have learnt it by chatgpt and implimented it
     vector<int> decode(vector<int>& encoded) {
         int n = encoded.size() + 1;
         int total = 0;
