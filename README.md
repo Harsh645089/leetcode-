@@ -54,4 +54,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harsh645089/leetcode-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Harsh645089/leetcode-/tree/master/0785-is-graph-bipartite) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Harsh645089/leetcode-/tree/master/0785-is-graph-bipartite) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Harsh645089/leetcode-/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Harsh645089/leetcode-/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
