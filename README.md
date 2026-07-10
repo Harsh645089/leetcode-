@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Harsh645089/leetcode-/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Harsh645089/leetcode-/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/Harsh645089/leetcode-/tree/master/0733-flood-fill) |
@@ -58,18 +59,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Harsh645089/leetcode-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Harsh645089/leetcode-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Harsh645089/leetcode-/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Harsh645089/leetcode-/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Harsh645089/leetcode-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Harsh645089/leetcode-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Harsh645089/leetcode-/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Harsh645089/leetcode-/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Harsh645089/leetcode-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Harsh645089/leetcode-/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Harsh645089/leetcode-/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
@@ -80,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Harsh645089/leetcode-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Harsh645089/leetcode-/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
