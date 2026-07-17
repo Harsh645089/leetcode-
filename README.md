@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harsh645089/leetcode-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1768-merge-strings-alternately](https://github.com/Harsh645089/leetcode-/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harsh645089/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Recursion
 |  |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Harsh645089/leetcode-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Harsh645089/leetcode-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Harsh645089/leetcode-/tree/master/1020-number-of-enclaves) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Harsh645089/leetcode-/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
