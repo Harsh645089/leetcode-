@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Harsh645089/leetcode-/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Harsh645089/leetcode-/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Harsh645089/leetcode-/tree/master/0268-missing-number) |
+| [0605-can-place-flowers](https://github.com/Harsh645089/leetcode-/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/Harsh645089/leetcode-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Harsh645089/leetcode-/tree/master/0994-rotting-oranges) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Harsh645089/leetcode-/tree/master/1768-merge-strings-alternately) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Harsh645089/leetcode-/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
