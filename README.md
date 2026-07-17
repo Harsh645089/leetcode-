@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Harsh645089/leetcode-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Harsh645089/leetcode-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Harsh645089/leetcode-/tree/master/1020-number-of-enclaves) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harsh645089/leetcode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1734-decode-xored-permutation](https://github.com/Harsh645089/leetcode-/tree/master/1734-decode-xored-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harsh645089/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
