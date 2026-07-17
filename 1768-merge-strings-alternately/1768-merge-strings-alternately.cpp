@@ -14,6 +14,8 @@ public:
             j++;
         }
 
+        
+
         while(i < n){
             ans.push_back(word1[i]);
             i++;
