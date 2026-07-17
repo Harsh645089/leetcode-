@@ -6,7 +6,7 @@ public:
 
         string ans = "";
 
-        for(int i = 1 ; i <= str1Len ; i++){
+        for(int i = str1Len ; i > 0 ; i--){
             //working on  string 1
             string x = str1.substr(0 , i);
             int xLen = x.size();
