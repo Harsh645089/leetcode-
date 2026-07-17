@@ -1,56 +1,23 @@
 class Solution {
 public:
     bool canPlaceFlowers(vector<int>& flowerbed, int n) {
-        int i = 0;
+
         int remflower = n;
         int bedlen = flowerbed.size();
-        if(n == 0) return true;
-        if(bedlen == 1){
-            if(flowerbed[0] == 0) return true;
-            return false;
-        }
 
-        while(i < bedlen){
-            if(flowerbed[i] == 1){
-                //cannot plant here ;
-                i = i + 2;
-            }
-            else if( flowerbed[i] == 0 ){
-                //may plant ;
-                if(i == 0){
-                    if(flowerbed[i+ 1] == 0){
-                        remflower--;
-                        i = i + 2;
-                    }
-                    else{
-                        i = i + 3;
-                    }
-                }
+        for(int i = 0 ; i < bedlen ; i++){
+            if(flowerbed[i] == 0){
+                bool leftbed = (i == 0 || flowerbed[i-1] == 0);
+                bool rightbed = (i == bedlen-1 || flowerbed[i+ 1] == 0);
 
-                else if(i == bedlen - 1){
-                    if(flowerbed[i-1] == 0){
-                        remflower--;
-                        
-                    }
-                    i = i + 2;
-                }
+                if(leftbed && rightbed){
+                    flowerbed[i] = 1;
+                    remflower--;
 
-                else{
-                    if( flowerbed[i -1] == 0 && flowerbed[i + 1] == 0){
-                        remflower-- ; //planted
-                        i = i+ 2;
-                    }
-                    else{
-                        i++;
-                    }
-                
+                    if(remflower == 0) return true;
                 }
-              
             }
         }
-
-        if(remflower <= 0 ) return true;
-
-        return false;
+        return remflower <= 0;
     }
 };
