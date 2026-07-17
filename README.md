@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Harsh645089/leetcode-/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Harsh645089/leetcode-/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Harsh645089/leetcode-/tree/master/0371-sum-of-two-integers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Harsh645089/leetcode-/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Harsh645089/leetcode-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harsh645089/leetcode-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Harsh645089/leetcode-/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harsh645089/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
