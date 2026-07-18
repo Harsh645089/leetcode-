@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Harsh645089/leetcode-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Harsh645089/leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Harsh645089/leetcode-/tree/master/0268-missing-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Harsh645089/leetcode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Harsh645089/leetcode-/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/Harsh645089/leetcode-/tree/master/0733-flood-fill) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Harsh645089/leetcode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Harsh645089/leetcode-/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
