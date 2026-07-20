@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harsh645089/leetcode-/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Harsh645089/leetcode-/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Harsh645089/leetcode-/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1734-decode-xored-permutation](https://github.com/Harsh645089/leetcode-/tree/master/1734-decode-xored-permutation) |
 ## Array
 |  |
