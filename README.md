@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Harsh645089/leetcode-/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/Harsh645089/leetcode-/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Harsh645089/leetcode-/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Harsh645089/leetcode-/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Harsh645089/leetcode-/tree/master/1020-number-of-enclaves) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harsh645089/leetcode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harsh645089/leetcode-/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Harsh645089/leetcode-/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Harsh645089/leetcode-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
