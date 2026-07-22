@@ -3,21 +3,24 @@ public:
     int maxProfit(vector<int>& prices, int fee) {
         bool bought = false;
         int n = prices.size();
-        vector<vector<int>> dp(n + 1, vector<int>(2 , 0)); //one extra space for the base case
+        vector<int> next(2, 0);
+        vector<int> curr(2, 0);
 
         for(int i = n-1 ; i >= 0 ; i--){
             //as i know the last state that is my base case
 
-            int skip_buy = dp[i+1][0];
-            int buy = dp[i+1][1] - prices[i] - fee;
-            dp[i][0] = max(skip_buy  , buy);
+            int skip_buy = next[0];
+            int buy = next[1] - prices[i] - fee;
+            curr[0] = max(skip_buy  , buy);
 
-            int skip_sell = dp[i+1][1];
-            int sell = dp[i+1][0] + prices[i];
-            dp[i][1] = max(skip_sell , sell);
+            int skip_sell = next[1];
+            int sell = next[0] + prices[i];
+            curr[1] = max(skip_sell , sell);
+
+            next = curr;
         }
 
-        return dp[0][0];
+        return next[0];
 
         
     }
