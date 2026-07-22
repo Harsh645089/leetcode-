@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Harsh645089/leetcode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Harsh645089/leetcode-/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harsh645089/leetcode-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Harsh645089/leetcode-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Harsh645089/leetcode-/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Harsh645089/leetcode-/tree/master/0994-rotting-oranges) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Harsh645089/leetcode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Harsh645089/leetcode-/tree/master/0605-can-place-flowers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harsh645089/leetcode-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Harsh645089/leetcode-/tree/master/0338-counting-bits) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harsh645089/leetcode-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
