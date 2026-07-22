@@ -17,7 +17,7 @@ public:
             int sell = next[0] + prices[i];
             curr[1] = max(skip_sell , sell);
 
-            next = curr;
+            swap(next , curr);
         }
 
         return next[0];
