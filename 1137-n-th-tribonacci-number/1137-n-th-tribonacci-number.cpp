@@ -3,14 +3,18 @@ public:
     int tribonacci(int n) {
         if(n == 0) return 0;
         if(n <= 2) return 1;
-        vector<int> dp(n+1 , -1);
-        dp[0] = 0;
-        dp[1] = 1;
-        dp[2] = 1;
+        int curr = 0;
+        int third = 0;
+        int second = 1;
+        int prev = 1;
+
         for(int i = 3 ; i <= n ; i++){
-            dp[i] = dp[i-3] + dp[i-2] + dp[i-1];
+            curr = third + second + prev;
+            third  = second;
+            second = prev;
+            prev = curr;
         }
 
-        return dp[n];
+        return prev;
     }
 };
