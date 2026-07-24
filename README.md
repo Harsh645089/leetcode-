@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh645089/leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harsh645089/leetcode-/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh645089/leetcode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh645089/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh645089/leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Harsh645089/leetcode-/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Harsh645089/leetcode-/tree/master/0200-number-of-islands) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh645089/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Harsh645089/leetcode-/tree/master/0338-counting-bits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harsh645089/leetcode-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1137-n-th-tribonacci-number](https://github.com/Harsh645089/leetcode-/tree/master/1137-n-th-tribonacci-number) |
