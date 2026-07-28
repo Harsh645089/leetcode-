@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh645089/leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Harsh645089/leetcode-/tree/master/1020-number-of-enclaves) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harsh645089/leetcode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harsh645089/leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harsh645089/leetcode-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1734-decode-xored-permutation](https://github.com/Harsh645089/leetcode-/tree/master/1734-decode-xored-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harsh645089/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Harsh645089/leetcode-/tree/master/0338-counting-bits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harsh645089/leetcode-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1137-n-th-tribonacci-number](https://github.com/Harsh645089/leetcode-/tree/master/1137-n-th-tribonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harsh645089/leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
@@ -179,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Harsh645089/leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh645089/leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsh645089/leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harsh645089/leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
