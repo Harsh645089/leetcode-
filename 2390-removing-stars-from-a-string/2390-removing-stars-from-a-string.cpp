@@ -1,15 +1,19 @@
 class Solution {
 public:
     string removeStars(string s) {
-        string ans;
+        int top = 0;
+
         for(auto ch : s){
             if(ch == '*'){
-                ans.pop_back();
+                top--;
             }
             else{
-                ans.push_back(ch);
+                s[top] = ch;
+                top++;
             }
         }
-        return ans;
+
+        s.resize(top);
+        return s;
     }
 };
