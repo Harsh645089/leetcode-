@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh645089/leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh645089/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/Harsh645089/leetcode-/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Harsh645089/leetcode-/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Harsh645089/leetcode-/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harsh645089/leetcode-/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Harsh645089/leetcode-/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harsh645089/leetcode-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Harsh645089/leetcode-/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Harsh645089/leetcode-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Harsh645089/leetcode-/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/Harsh645089/leetcode-/tree/master/2390-removing-stars-from-a-string) |
