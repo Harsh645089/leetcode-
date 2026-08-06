@@ -12,13 +12,14 @@ public:
                 double x = result(adj , v , dest  , visited);
 
                 if(x != -1){
+                    //means path exist
                     return x * val;
                 }
                 
             }
         }
 
-        return -1;
+        return -1;  //when path don't exist 
     }
 
     vector<double> calcEquation(vector<vector<string>>& equations, vector<double>& values, vector<vector<string>>& queries) {
