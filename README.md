@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh645089/leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Harsh645089/leetcode-/tree/master/0338-counting-bits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harsh645089/leetcode-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0790-domino-and-tromino-tiling](https://github.com/Harsh645089/leetcode-/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/Harsh645089/leetcode-/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harsh645089/leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
