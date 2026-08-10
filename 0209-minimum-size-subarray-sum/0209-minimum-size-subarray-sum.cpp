@@ -1,35 +1,27 @@
 class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
-        int n =  nums.size();
-        vector<int> prefixsum(n ,0) ;
+        //this is something crazy
+        int n = nums.size();
+        int low = 0;
         int sum = 0;
-        for(int i = 0 ; i < n ; i++){
-            sum += nums[i];
-            prefixsum[i] = sum;
-        }
+        int ans = INT_MAX;
 
-        int ans_len = INT_MAX;
-        
-        for(int i = 0 ; i < n ; i++){
-            int low = i;
-            int high = n-1;
+        for(int high = 0 ; high < n ; high++){
+            //this high will help me to find the prefix sum and also help me to the finf the first window that have sum >= target and then i will start shrinking the window until the conditon valid 
 
-            while(low <= high){
-                int j = low +(high - low)/2;
+            sum += nums[high];
 
-                if(prefixsum[j] - prefixsum[i] + nums[i] >= target){
-                    ans_len = min(ans_len , j - i + 1);
-                    high = j -1;
-                }
-                else{
-                    low = j + 1;
-                }
+            while(sum >= target){
+                //i got the window whose sum >= target so now let's shrink it and see till when this condition stays 
+                ans = min(ans , high - low + 1);
+
+                sum -= nums[low];
+
+                low++;
             }
         }
 
-        if(ans_len == INT_MAX) return 0;
-
-        return ans_len;
+        return (ans == INT_MAX) ? 0 : ans;
     }
 };
