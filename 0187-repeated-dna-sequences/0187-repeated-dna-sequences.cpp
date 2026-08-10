@@ -6,26 +6,27 @@ public:
         int low  = 0;
         int high = 9;
         int n = s.size();
-        unordered_set<string> st;
-        unordered_set<string> ansset;
+        unordered_map<string , int> mp;
+ 
         
         while(high < n){
             string target = s.substr(low  , 10);
 
-            if(st.find(target) != st.end()){
-                ansset.insert(target);
+            if(mp.find(target) == mp.end()){
+                //first time putting it
+
+                mp[target] = 0;
 
             }
-            else{
-                st.insert(target);
+            else if(mp[target] == 0){
+                //2nd time 
+                
+                ans.push_back(target);
+                mp[target] = 1;
             }
 
             low++;
             high++;
-        }
-
-        for(auto str : ansset){
-            ans.push_back(str);
         }
 
         return ans;
