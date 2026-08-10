@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Harsh645089/leetcode-/tree/master/0029-divide-two-integers) |
+| [0187-repeated-dna-sequences](https://github.com/Harsh645089/leetcode-/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Harsh645089/leetcode-/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Harsh645089/leetcode-/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Harsh645089/leetcode-/tree/master/0338-counting-bits) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Harsh645089/leetcode-/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Harsh645089/leetcode-/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/Harsh645089/leetcode-/tree/master/1207-unique-number-of-occurrences) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh645089/leetcode-/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Harsh645089/leetcode-/tree/master/0187-repeated-dna-sequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh645089/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Harsh645089/leetcode-/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Harsh645089/leetcode-/tree/master/0399-evaluate-division) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Harsh645089/leetcode-/tree/master/0187-repeated-dna-sequences) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh645089/leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh645089/leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsh645089/leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -254,4 +258,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Harsh645089/leetcode-/tree/master/0901-online-stock-span) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Harsh645089/leetcode-/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Harsh645089/leetcode-/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Harsh645089/leetcode-/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Harsh645089/leetcode-/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
