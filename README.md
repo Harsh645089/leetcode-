@@ -193,11 +193,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Harsh645089/leetcode-/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Harsh645089/leetcode-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Harsh645089/leetcode-/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Harsh645089/leetcode-/tree/master/0901-online-stock-span) |
 | [2390-removing-stars-from-a-string](https://github.com/Harsh645089/leetcode-/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Harsh645089/leetcode-/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Harsh645089/leetcode-/tree/master/0901-online-stock-span) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -244,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harsh645089/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Harsh645089/leetcode-/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Harsh645089/leetcode-/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
