@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Harsh645089/leetcode-/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harsh645089/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Harsh645089/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Harsh645089/leetcode-/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Harsh645089/leetcode-/tree/master/0268-missing-number) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Harsh645089/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/Harsh645089/leetcode-/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harsh645089/leetcode-/tree/master/1657-determine-if-two-strings-are-close) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Harsh645089/leetcode-/tree/master/0187-repeated-dna-sequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh645089/leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Harsh645089/leetcode-/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Harsh645089/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Harsh645089/leetcode-/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Harsh645089/leetcode-/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harsh645089/leetcode-/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Harsh645089/leetcode-/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh645089/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Harsh645089/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh645089/leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh645089/leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsh645089/leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
