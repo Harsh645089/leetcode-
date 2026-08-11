@@ -14,14 +14,13 @@ public:
             int windowlen = right - low + 1;
 
             //if the window is not valid then this will make it valid
-            while(windowlen - maxfreq  > k){
+            if(windowlen - maxfreq  > k){
                 //means this window is not valid one
                 freq[s[low] - 'A']--;
                 low++;
-                windowlen = right - low + 1;
             }
             
-            ans = max(ans ,windowlen); //i have used the formula instead of windowlen as that may be not the valid one but if i used the 
+            ans = max(ans ,right - low + 1); //i have used the formula instead of windowlen as that may be not the valid one but if i used the
         }
         return ans;
     }
