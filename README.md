@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harsh645089/leetcode-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1734-decode-xored-permutation](https://github.com/Harsh645089/leetcode-/tree/master/1734-decode-xored-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harsh645089/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Harsh645089/leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harsh645089/leetcode-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Harsh645089/leetcode-/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/Harsh645089/leetcode-/tree/master/2352-equal-row-and-column-pairs) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Harsh645089/leetcode-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Harsh645089/leetcode-/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harsh645089/leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Harsh645089/leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/Harsh645089/leetcode-/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -285,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Harsh645089/leetcode-/tree/master/0187-repeated-dna-sequences) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Harsh645089/leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Harsh645089/leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
