@@ -7,27 +7,25 @@ public:
         vector<int> ans ;
 
         
-        for(auto num : nums1){
-            int n = nums2.size();
-            int low = 0;
-            int high = n -1;
+        
+        int i = 0;
+        int j = 0;
 
-            while(low <= high && nums2.size() > 0){
-                int mid = low + (high - low)/2;
+        int n = nums1.size();
+        int m = nums2.size();
 
-                if(nums2[mid] == num){
-                    ans.push_back(num);
-                    nums2.erase(nums2.begin() + mid);
-                    break;
 
-                }
-
-                else if(nums2[mid] < num){
-                    low = mid + 1;
-                }
-                else{
-                    high = mid - 1;
-                }
+        while(i < n && j < m){
+            if(nums1[i] == nums2[j]){
+                ans.push_back(nums1[i]);
+                i++;
+                j++;
+            }
+            else if(nums1[i] > nums2[j]){
+                j++;
+            }
+            else{
+                i++;
             }
         }
 
