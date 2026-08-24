@@ -4,18 +4,18 @@ public:
         int n = intervals.size();
         vector<int> result(n );
 
-        vector<pair<vector<int> , int>> arr; //i can optimised it by storing the start of the interval as it is the one that i need 
+        vector<pair<int,int>> arr; //i can optimised it by storing the start of the interval as it is the one that i need 
 
         for(int i = 0 ; i < n ; i++){
-            arr.push_back({intervals[i] , i});
+            arr.push_back({intervals[i][0] , i});
         }
 
         sort(arr.begin() , arr.end());
 
         for(int i = 0 ; i < n ; i++){
-            int start_ = arr[i].first[0];
-            int end = arr[i].first[1];
+            int start_ = arr[i].first;
             int end_idx = arr[i].second; //this is the idx of the end
+            int end = intervals[end_idx][1];
             int ans = -1;
             int low = i + 1;
             int high = n -1;
@@ -29,7 +29,7 @@ public:
             while(low <= high){
                 int mid = low + (high - low)/2;
 
-                int start = arr[mid].first[0];
+                int start = arr[mid].first;
                 int start_idx = arr[mid].second;
 
                 if(start >= end){
