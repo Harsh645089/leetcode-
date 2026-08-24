@@ -8,31 +8,20 @@ public:
 
         int triples_count = 0;
 
-        for(int i = 0 ; i < n; i++){
-            for(int j = i + 1; j < n ; j++){
+        for(int k = n-1 ; k >= 0 ; k--){
+            int i = 0;
+            int j = k-1; //means we have selected the kth and now trying to find the valid ith and jth terms
 
-                int low = j + 1;
-                int high = n-1;
-
-                int idx = j;
-
-                while(low <= high){
-                    int mid = low + (high - low)/2;
-
-                    if(nums[mid] < nums[i] + nums[j]){
-                        idx = mid;
-                        low = mid + 1;
-                    }
-
-                    else{
-                        high = mid -1;
-                    }
+            while(i < j){
+                if(nums[i] + nums[j] > nums[k]){
+                    //means i , i+1 , i+2.......jth tak sab valid hai as if i incease i term then the sum increase not decrease;
+                    triples_count += j - i;
+                    j--; //to find the new i and j pair and decrease the sum and use i terms to increase it so that we can get more valid pairs
                 }
-
-                triples_count += idx - j ; //this include the mid/idx one and exclude the jth one
-
+                else{
+                    i++; //increase the sum as it is sorted
+                }
             }
-   
         }
 
         return triples_count;
