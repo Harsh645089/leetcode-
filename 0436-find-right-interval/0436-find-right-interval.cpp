@@ -4,7 +4,7 @@ public:
         int n = intervals.size();
         vector<int> result(n );
 
-        vector<pair<vector<int> , int>> arr;
+        vector<pair<vector<int> , int>> arr; //i can optimised it by storing the start of the interval as it is the one that i need 
 
         for(int i = 0 ; i < n ; i++){
             arr.push_back({intervals[i] , i});
