@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Harsh645089/leetcode-/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh645089/leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/Harsh645089/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Harsh645089/leetcode-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Harsh645089/leetcode-/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Harsh645089/leetcode-/tree/master/0735-asteroid-collision) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Harsh645089/leetcode-/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/Harsh645089/leetcode-/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Harsh645089/leetcode-/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/Harsh645089/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harsh645089/leetcode-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harsh645089/leetcode-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Harsh645089/leetcode-/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh645089/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/Harsh645089/leetcode-/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/Harsh645089/leetcode-/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Harsh645089/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Harsh645089/leetcode-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh645089/leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Harsh645089/leetcode-/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh645089/leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Harsh645089/leetcode-/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/Harsh645089/leetcode-/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Harsh645089/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harsh645089/leetcode-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Harsh645089/leetcode-/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Harsh645089/leetcode-/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Harsh645089/leetcode-/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh645089/leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh645089/leetcode-/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Harsh645089/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh645089/leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsh645089/leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harsh645089/leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harsh645089/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Harsh645089/leetcode-/tree/master/0658-find-k-closest-elements) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Harsh645089/leetcode-/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Harsh645089/leetcode-/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
