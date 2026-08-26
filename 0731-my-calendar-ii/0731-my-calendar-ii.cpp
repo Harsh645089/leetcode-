@@ -9,6 +9,8 @@ public:
     }
     
     bool book(int startTime, int endTime) {
+
+        //this is to check the triple overlap
         for(auto interval : overlap){
             int start = interval.first;
             int end = interval.second;
@@ -18,6 +20,7 @@ public:
             }
         }
 
+        //this is to find the first overlap region if there any and then inserting that in the overlap region 
         for(auto interval : intervals){
 
             int start = interval.first;
@@ -34,7 +37,8 @@ public:
                 overlap.push_back({overlapStart , overlapEnd});
             }
         }
-
+        
+        //inserting the first overlap or clean interval in the intervals
         intervals.push_back({startTime , endTime});
 
         return true;
